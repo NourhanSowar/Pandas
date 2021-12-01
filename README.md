@@ -1,2 +1,2 @@
 # Pandas
-Pandas Couse on Kaggle
+Pandas Course on Kaggle
